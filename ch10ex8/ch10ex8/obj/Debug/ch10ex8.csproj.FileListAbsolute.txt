@@ -1,0 +1,15 @@
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\bin\Debug\ch10ex8.exe.config
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\bin\Debug\ch10ex8.exe
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\bin\Debug\ch10ex8.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.exe
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.pdb
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\bin\Debug\ch10ex8.exe.config
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\bin\Debug\ch10ex8.exe
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\bin\Debug\ch10ex8.pdb
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.csproj.SuggestedBindingRedirects.cache
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.exe
+C:\Users\miran\Desktop\CSCI 234 Codes 2.0 (object-oriented programming with c sharp)\Week 1\Week 1 Codes\ch10ex8\ch10ex8\obj\Debug\ch10ex8.pdb
